@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120324899900",
+    "project_id": "sound-of-meme-5cd8e",
+    "storage_bucket": "sound-of-meme-5cd8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120324899900:android:335d98101de5036b21af39",
+        "android_client_info": {
+          "package_name": "com.example.sound_of_meme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ui-7Vp1MZ2oXNEg2avq6HrOJok5rjto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
